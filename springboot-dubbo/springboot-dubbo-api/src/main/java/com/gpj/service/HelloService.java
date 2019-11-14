@@ -1,4 +1,4 @@
-package com.gpj.service.api;
+package com.gpj.service;
 
 /**
  * @author Peijia
@@ -8,4 +8,5 @@ package com.gpj.service.api;
  */
 public interface HelloService {
 
+    void sayHello();
 }
